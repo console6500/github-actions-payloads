@@ -1,26 +1,8 @@
 {
-  "after": "8da2821f2ba5d89b601adf4538d11e9c54ce0428",
+  "after": "b861daa022dc6901966dcf823ca9a2deb679ab73",
   "base_ref": null,
-  "before": "b2d7247825a088af59b66da5d7af17fb38acb92d",
+  "before": "3a784f5e36da9f4fef92306a4d7fdff2ce4b1f53",
   "commits": [
-    {
-      "author": {
-        "email": "console6500@users.noreply.github.com",
-        "name": "console6500",
-        "username": "console6500"
-      },
-      "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
-      },
-      "distinct": false,
-      "id": "5e0c80a2d08374152c8503c4fe4f043293953904",
-      "message": "[create-pull-request] automated change",
-      "timestamp": "2021-06-14T05:02:55Z",
-      "tree_id": "a6f87381dd7194f45043f325d90c055e6a9192b5",
-      "url": "https://github.com/console6500/github-actions-payloads/commit/5e0c80a2d08374152c8503c4fe4f043293953904"
-    },
     {
       "author": {
         "email": "73613222+console6500@users.noreply.github.com",
@@ -33,14 +15,14 @@
         "username": "web-flow"
       },
       "distinct": true,
-      "id": "8da2821f2ba5d89b601adf4538d11e9c54ce0428",
-      "message": "Merge pull request #3 from console6500/create-pull-request/patch\n\nChanges by create-pull-request action",
-      "timestamp": "2021-06-13T22:11:37-07:00",
-      "tree_id": "e5d513e054444cf23ed0c9562e86736a023d391b",
-      "url": "https://github.com/console6500/github-actions-payloads/commit/8da2821f2ba5d89b601adf4538d11e9c54ce0428"
+      "id": "b861daa022dc6901966dcf823ca9a2deb679ab73",
+      "message": "Update blank.yml",
+      "timestamp": "2021-06-13T22:14:18-07:00",
+      "tree_id": "5ec36376287ce351b3a0176c1cdfd299edc592b5",
+      "url": "https://github.com/console6500/github-actions-payloads/commit/b861daa022dc6901966dcf823ca9a2deb679ab73"
     }
   ],
-  "compare": "https://github.com/console6500/github-actions-payloads/compare/b2d7247825a0...8da2821f2ba5",
+  "compare": "https://github.com/console6500/github-actions-payloads/compare/3a784f5e36da...b861daa022dc",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +38,11 @@
       "username": "web-flow"
     },
     "distinct": true,
-    "id": "8da2821f2ba5d89b601adf4538d11e9c54ce0428",
-    "message": "Merge pull request #3 from console6500/create-pull-request/patch\n\nChanges by create-pull-request action",
-    "timestamp": "2021-06-13T22:11:37-07:00",
-    "tree_id": "e5d513e054444cf23ed0c9562e86736a023d391b",
-    "url": "https://github.com/console6500/github-actions-payloads/commit/8da2821f2ba5d89b601adf4538d11e9c54ce0428"
+    "id": "b861daa022dc6901966dcf823ca9a2deb679ab73",
+    "message": "Update blank.yml",
+    "timestamp": "2021-06-13T22:14:18-07:00",
+    "tree_id": "5ec36376287ce351b3a0176c1cdfd299edc592b5",
+    "url": "https://github.com/console6500/github-actions-payloads/commit/b861daa022dc6901966dcf823ca9a2deb679ab73"
   },
   "pusher": {
     "email": "73613222+console6500@users.noreply.github.com",
@@ -146,7 +128,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/console6500/github-actions-payloads/pulls{/number}",
-    "pushed_at": 1623647497,
+    "pushed_at": 1623647658,
     "releases_url": "https://api.github.com/repos/console6500/github-actions-payloads/releases{/id}",
     "size": 0,
     "ssh_url": "git@github.com:console6500/github-actions-payloads.git",
@@ -160,7 +142,7 @@
     "tags_url": "https://api.github.com/repos/console6500/github-actions-payloads/tags",
     "teams_url": "https://api.github.com/repos/console6500/github-actions-payloads/teams",
     "trees_url": "https://api.github.com/repos/console6500/github-actions-payloads/git/trees{/sha}",
-    "updated_at": "2021-06-14T05:11:28Z",
+    "updated_at": "2021-06-14T05:11:51Z",
     "url": "https://github.com/console6500/github-actions-payloads",
     "watchers": 0,
     "watchers_count": 0
