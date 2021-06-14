@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: cat "${GITHUB_EVENT_PATH}" | tee "${GITHUB_EVENT_NAME}".json
-      - uses: EndBug/add-and-commit@v7
-        with:
-          add: '.'
-          
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3          
 
