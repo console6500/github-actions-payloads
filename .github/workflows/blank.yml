@@ -13,3 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: cat "${GITHUB_EVENT_PATH}" | tee "${GITHUB_EVENT_NAME}".json
+      - uses: EndBug/add-and-commit@v7
