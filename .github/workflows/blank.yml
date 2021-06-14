@@ -2,6 +2,7 @@ name: Payload
 on:
   push:
   release:
+    types: [created,deleted]
   pull_request:
   workflow_dispatch:
 
